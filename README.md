@@ -1,5 +1,8 @@
 # walle-docker
 
+[![Build Status](https://cloud.drone.io/api/badges/v7lin/walle-docker/status.svg)](https://cloud.drone.io/v7lin/walle-docker)
+[![Docker Pulls](https://img.shields.io/docker/pulls/v7lin/walle.svg)](https://hub.docker.com/r/v7lin/walle)
+
 ### 项目源码
 
 [Meituan-Dianping/walle](https://github.com/Meituan-Dianping/walle)
